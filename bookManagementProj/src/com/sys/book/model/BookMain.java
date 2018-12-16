@@ -3,7 +3,7 @@ package com.sys.book.model;
 import java.util.Scanner;
 
 
-public class BookMain {	
+public class BookMain {	 
 
 	public static int bn = 1;
 	public static int mbn = 1;
